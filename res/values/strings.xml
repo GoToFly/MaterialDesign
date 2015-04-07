@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MaterialDesign</string>
+
+    <!-- 发布说说-->
+    <string name="ss_hint">说点什么...</string>
+</resources>
